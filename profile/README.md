@@ -6,7 +6,7 @@ There are multiple ways to contribute to the DSDC.
 
 ## Using GitHub Discussions
 
-We use GitHub Discussions to start public communication whether its for public feedback, questions, discussions, suggestions, or announcements. Meeting notes and decisions will be recorded under each API section as they occur. Discussions will happen at the [dsdcapis](https://github.com/dsdcapis) organization level.
+We use GitHub Discussions to start public communication whether its for public feedback, questions, discussions, suggestions, or announcements. Meeting notes and decisions will be recorded under each API section as they occur. Discussions will happen at the [dsdcapis organization level](https://github.com/orgs/dsdcapis/discussions).
 
 ## Using GitHub Issues
 
