@@ -24,6 +24,6 @@ The following explains what each repository is for.
 
 The [full-truckload](https://github.com/dsdcapis/full-truckload) repository is the home of all artifacts created by the DSDC related to Truckload. Go to the repository for more information on contributing and governance.
 
-### community
+## community
 
 The [community](https://github.com/dsdcapis/community) repository holds all discussions for the DSDC APIs. Go to the repository for more information.
