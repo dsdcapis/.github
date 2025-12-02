@@ -24,7 +24,7 @@ The following explains what each repository is for.
 
 The [full-truckload](https://github.com/dsdcapis/full-truckload) repository is the home of all artifacts created by the DSDC related to Truckload. Go to the repository for more information on contributing and governance.
 
-#### less-than-truckload
+## less-than-truckload
 
 The [less-than-truckload](https://github.com/dsdcapis/less-than-truckload) repository is the home of all artifacts created by the DSDC related to Less Than Truckload. Go to the repository for more information on contributing and governance.
 
